@@ -16,7 +16,7 @@ volumes:
 
 networks:
   default:
-    name: elastic
+    name: elk
     external: false
 
 services:
